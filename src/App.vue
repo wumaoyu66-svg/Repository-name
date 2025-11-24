@@ -87,7 +87,7 @@
         <div class="footer-column"> 
           <h3>联系我</h3>
           <div class="qrcode-placeholder">
-            <span><img src="../../lg/src/assets/erwei.png" alt="公众号二维码" style="width: 100px;height: 100px;"></span>
+            <span><img src="../src/assets/erwei.png" alt="公众号二维码" style="width: 100px;height: 100px;"></span>
           </div>
         </div>
       </div>
